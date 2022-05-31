@@ -1,5 +1,5 @@
 <?php
-$admin = array(' ',' ');//آیدی عددی خود را وارد کنید
+$admin = array('1138598748','1138598748');//آیدی عددی خود را وارد کنید
 function Daie($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
     $ch = curl_init();
