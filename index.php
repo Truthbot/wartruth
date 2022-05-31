@@ -1,6 +1,6 @@
 <?php
  
-define("API_KEY"," ");//توکن ربات خود را وارد کنید
+define("API_KEY","5513222680:AAEFUW7K4v5jTXHCzSQMWB6n6SA6ZpauS30");//توکن ربات خود را وارد کنید
 flush();
 include "telegram.php";
 include "lvp.php";
